@@ -1,0 +1,19 @@
+DFS
+line 1-12
+merupakan graph yang di bangun yang di implementasikan dalam bentuk list.
+line 14
+melacak node yang sudah di lewati.
+line 16-21
+merupakan fungsi dari dfs, untuk mengecek apakah node tersebut sudah di kunjungi atau blm.
+
+BFS
+line 1-12
+merupakan graph yang di bangun dan di implementasikan dalam bentuk list.
+line 14
+melacak node yang sudah di lewati.
+line 15
+melacak node yang ada di dalam queue.
+line
+merupakan fungsi dari BFS, untuk melacak apakah queue masih memiliki elemen, jika masih node ini akan
+mengeluarkan node ini dari queue dan akan menambahkan neighbour dari node tersebut
+
